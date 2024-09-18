@@ -1,0 +1,20 @@
+TextureFillRedPattern
+
+fillRasterizedImage.time:58 faces:276728
+elapsed:109
+fillRasterizedImage.time:47 faces:276728
+elapsed:91
+fillRasterizedImage.time:47 faces:276728
+elapsed:109
+
+TexturerFillRed
+
+fillRasterizedImage.time:537 faces:276728
+elapsed:573
+fillRasterizedImage.time:519 faces:276728
+elapsed:557
+fillRasterizedImage.time:517 faces:276728
+elapsed:553
+fillRasterizedImage.time:524 faces:276728
+elapsed:563
+
